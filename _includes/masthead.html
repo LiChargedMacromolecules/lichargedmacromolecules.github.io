@@ -11,7 +11,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg" style="display:inline-flex;align-items:center;gap:4px;"><a href="{{ base_path }}/">EN</a><span style="color:#aaa;">|</span><a href="{{ base_path }}/cn/">中文</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg" style="display:inline-flex;align-items:center;"><a href="{{ base_path }}/">EN</a><span style="color:#aaa;padding:0 3px;">|</span><a href="{{ base_path }}/cn/">中文</a></li>
           {% if is_cn %}
             {% assign nav_links = site.data.navigation.main_cn %}
           {% else %}
