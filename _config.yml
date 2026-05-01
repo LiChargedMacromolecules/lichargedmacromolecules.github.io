@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "CN / 中文"
+title                    : "Minglun Li | 李明伦"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Minglun Li"
+description              : &description "Theoretical and computational polymer physicist | 理论与计算高分子物理学家"
 url                      : https://lichargedmacromolecules.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "LiChargedMacromolecules/LiChargedMacromolecules.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Minglun Li"
   pronouns         : # example: "she/her"  
-  bio              : "Minglun's Academic Website"
-  location         : "Amherst, MA, USA"
-  employer         : "University of Massachusetts Amherst"
+  bio              : "Researcher at CIAC-CAS | Postdoc at UMass Amherst (Muthukumar Lab) | Charged macromolecules & nanopores | 中国科学院长春应化所"
+  location         : "Changchun, China"
+  employer         : "Chinese Academy of Sciences"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mlli@ciac.ac.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -222,6 +222,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  Research:
     output: true
     permalink: /:collection/:path/
 
