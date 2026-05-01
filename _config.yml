@@ -23,8 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Minglun Li"
-  pronouns         : # example: "she/her"  
+  name_cn          : "李明伦"
+  pronouns         : # example: "she/her"
   bio              : "Researcher at CIAC-CAS | Postdoc at UMass Amherst (Muthukumar Lab) | Charged macromolecules & nanopores | 中国科学院长春应化所"
+  bio_cn           : "中国科学院长春应用化学研究所研究员 | 麻省大学阿默斯特分校博士后（Muthukumar课题组）| 带电高分子与纳米孔"
   location         : "Changchun, China"
   employer         : "Chinese Academy of Sciences"
   uri              : # URL
