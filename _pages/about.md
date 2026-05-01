@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Minglun Li (李明伦)"
+title: "Minglun Li"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,19 +19,7 @@ My research focuses on the **theoretical and computational physics of charged ma
 
 ---
 
-我是**[中国科学院长春应用化学研究所](http://www.ciac.ac.cn/)**的研究员（2025年3月起），同时任职于**[中国科学院大学](https://www.ucas.ac.cn/)**（2025年9月起）。此前，我在**[麻省大学阿默斯特分校](https://www.umass.edu/)**高分子科学与工程系完成博士后研究（2022–2025），导师为 [Murugappan Muthukumar 教授](https://www.umass.edu/polymer/faculty/muthukumar)（Wilmer D. Barrett 杰出教授）。我在**[南洋理工大学](https://www.ntu.edu.sg/)**（2019–2022）获得博士学位，导师为 [余景副教授](https://www.ntu.edu.sg/mse/about-us/our-people/faculty/yu-jing)；并曾在**中科院长春应化所/中国科学院大学**（2013–2019）开展博士阶段的研究，导师包括 [王振刚教授](https://www.che.caltech.edu/groups/zgw/)（加州理工学院）和 Murugappan Muthukumar 教授。
-
-我的研究方向为**带电高分子的理论与计算物理**，主要包括：
-
-- **纳米孔测序** — RNA/DNA 在固态和蛋白质纳米孔中的跨膜转运
-- **电渗流** — 纳米限域中带电高分子构象驱动的异常输运
-- **聚电解质刷** — 离子价态、溶剂质量及表面固定两性离子结构的效应
-- **液–液相分离** — 盐诱导的水/有机溶剂/盐混合体系相分离
-- **偶极相互作用** 在聚电解质功能材料中的作用
-
----
-
-## Education | 教育背景
+## Education
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
@@ -40,9 +28,73 @@ My research focuses on the **theoretical and computational physics of charged ma
 | Ph.D. (combined), Polymer Science | CIAC-CAS / UCAS (Wang & Muthukumar) | 2013–2019 |
 | B.S. | — | 2009–2013 |
 
-## Selected Funding | 代表性科研项目
+## Selected Funding
 
 - **NIH / National Human Genome Research Institute**: Computational Design Engine for DNA/RNA Sequencing — $1,548,095
 - **NSF / Division of Materials Research**: Topologically Frustrated Polymer Dynamics and Phase Behavior of Polyzwitterions — $525,000
 - **Singapore National Research Fellowship**: Bio-inspired Adhesives for Wet Environment — S$2,650,200
 - **Singapore MOE Academic Research Fund Tier 1**: Polymer and Gold Surfaces in Flexible Electronics — S$190,000
+
+---
+
+## Research
+
+Our group develops **theoretical and computational approaches** to understand the physical behavior of charged macromolecules in complex environments — from single-molecule nanopore translocation to collective phase behavior in solution.
+
+### 1. Nanopore RNA/DNA Sequencing
+
+We study the translocation dynamics of RNA and DNA through protein and solid-state nanopores. Key questions include the role of secondary/tertiary RNA structure unfolding, the interplay between electroosmotic flow and electrophoresis, and the design principles for high-accuracy sequencing.
+
+**Representative publications:**
+- M. Li, M. Muthukumar\* "RNA Translocation through Protein Nanopores: Interlude of Molten Globule" *J. Am. Chem. Soc.* **147**, 1553 (2025)
+- M. Li, M. Muthukumar\* "Electro-osmotic Flow in Nanoconfinement: Solid-state and Protein Nanopores" *J. Chem. Phys.* **160**, 084905 (2024)
+
+### 2. Electroosmotic Flow in Nanoconfinement
+
+Charged macromolecules in flow undergo conformational transitions that dramatically alter the electroosmotic flow profile — leading to anomalous (even reversed) transport. We combine analytical theory and simulation to predict and control these effects.
+
+**Representative publication:**
+- K. Chen, M. Li\* "Hydrodynamic-Induced Conformational Transitions of Charged Macromolecules Dictate Anomalous Electroosmotic Flow" *Proc. Natl. Acad. Sci. U.S.A.* (2026, in press)
+
+### 3. Polyelectrolyte Brushes
+
+We develop unified theories for polyelectrolyte brushes under conditions of varying ion valency, solvent quality, and surface architecture (including zwitterionic peptide brushes). These systems are central to antifouling coatings, biosensors, and soft actuators.
+
+**Representative publications:**
+- M. Li, B. Zhuang\*, J. Yu\* "Effects of Ion Valency on Polyelectrolyte Brushes: A Unified Theory" *Macromolecules* **55**, 10450 (2022)
+- M. Li, M. Ruths, B. Zhuang\*, J. Yu\* "Synergistic regulation of polyelectrolyte brush conformations by solvent quality and trivalent ions" *Giant* **24**, 100363 (2025)
+- M. Li, X. Xu, ..., B. Zhuang\*, J. Yu\* "Ion Adsorption Enhances Apparent Non-Electrostatic Attraction Between Monomers in Polyelectrolyte Brushes" *Macromolecules* **57**, 3026 (2024)
+
+### 4. Liquid–Liquid Phase Separation
+
+We investigate salt-induced liquid–liquid phase separation in multicomponent solvent mixtures, combining experiment and theory to develop predictive models for ion polarizabilities and refractive indices.
+
+**Representative publication:**
+- M. Li\|\|, B. Zhuang\|\|, Y. Lu\*, L. An, Z.-G. Wang\* "Salt-induced Liquid–Liquid Phase Separation: Combined Experimental and Theoretical Investigation of Water–Acetonitrile–Salt Mixtures" *J. Am. Chem. Soc.* **143**, 773 (2021)
+
+### 5. Dipole Interactions in Polyelectrolyte Materials
+
+We explore dipole–dipole interactions as a driving force in applied polyelectrolyte systems, including electrochromic membranes and antifouling zwitterionic surfaces.
+
+**Representative publications:**
+- M. Li, J. Yu\* "Dipole Interactions as a Driving Force in Applied Polyelectrolyte Materials" *ACS Appl. Polym. Mater.* **8**, 3261 (2026)
+- M. Li, B. Zhuang\*, J. Yu\* "Functional Zwitterionic Polymers on Surface: Structures and Applications" *Chem. Asian J.* **15**, 2060 (2020)
+
+---
+
+## Group Members
+
+### Principal Investigator
+
+**Minglun Li**  
+Researcher, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences  
+Email: mlli@ciac.ac.cn  
+[Google Scholar](https://scholar.google.com.hk/citations?user=bXfelJkAAAAJ&hl=zh-CN&oi=sra) | [ORCID](http://orcid.org/0000-0002-1286-6915)
+
+### Graduate Students
+
+*Positions available — we are actively recruiting motivated Ph.D. students and postdocs.*
+
+### Join Us
+
+We welcome applications from students and researchers interested in theoretical/computational polymer physics and biophysics. Please send your CV and a brief statement of research interests to **mlli@ciac.ac.cn**.
