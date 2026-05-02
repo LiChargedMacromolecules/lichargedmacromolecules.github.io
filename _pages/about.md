@@ -44,7 +44,7 @@ Investigating liquid–liquid phase separation (LLPS) induced by salt concentrat
 ## Education and Experience
 
 | Degree | Institution | Location | Period | Advisor |
-|--------|-------------|----------|--------|---------|
+|------|-----------|--------|-------------|------------------------|
 | Professor | **[Changchun Institute of Applied Chemistry, CAS](http://www.ciac.ac.cn/)** State Key Laboratory of Polymer Physics and Chemistry | China | 2025.2 – |  |
 | Postdoctoral Research Associate| **[University of Massachusetts Amherst](https://www.umass.edu/)** [Department of Polymer Science and Engineering](https://www.umass.edu/polymer-science/) | USA | 2022.2 – 2025.2 | Prof. Murugappan Muthukumar |
 | Research Fellow | **[Nanyang Technological University](https://www.ntu.edu.sg/)** [School of Materials Science and Engineering](https://www.ntu.edu.sg/mse) | Singapore | 2019.9 – 2025.2 | Assoc. Prof. Jing Yu |
@@ -69,16 +69,16 @@ Investigating liquid–liquid phase separation (LLPS) induced by salt concentrat
 
 ### Principal Investigator
 
-**Minglun Li**  
+Minglun Li 
 
 
 ### Graduate Students
 
 #### 2nd-year Master's Students
-**Zhihui Zhu**    **Ruijun Gao**
+Zhihui Zhu    Ruijun Gao
 
 #### 1st-year Master's Students
-**Yaru Ren**    **Fanya Wei**    **Siyu Han**
+Yaru Ren    Fanya Wei    Siyu Han
 
 
 
