@@ -10,7 +10,7 @@ main:
 
 main_cn:
   - title: "发表论文"
-    url: /publications/
+    url: /cn/publications/
 
   #- title: "Portfolio"
   #  url: /portfolio/
