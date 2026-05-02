@@ -3,7 +3,7 @@ title: "Preparation, Interaction Mechanism and Application of Functional Ionic L
 collection: publications
 category: manuscripts
 permalink: /publication/2026-03-02-ionic-liquid-protein-imprinting
-excerpt: 'We prepare and characterize ionic liquid-mediated protein imprinting materials, elucidating their interaction mechanism and applications.'
+#excerpt: 'We prepare and characterize ionic liquid-mediated protein imprinting materials, elucidating their interaction mechanism and applications.'
 date: 2026-03-02
 status: under_review
 venue: 'Polymers'

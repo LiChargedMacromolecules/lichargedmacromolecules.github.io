@@ -3,7 +3,7 @@ title: "Site-Specific Post-Translational Modification Detection by Polar Charged
 collection: publications
 category: manuscripts
 permalink: /publication/2026-03-03-ptm-detection-mspa-nanopores
-excerpt: 'We use engineered MspA nanopores with polar charged residues for site-specific detection of post-translational modifications.'
+#excerpt: 'We use engineered MspA nanopores with polar charged residues for site-specific detection of post-translational modifications.'
 date: 2026-03-03
 status: under_review
 venue: 'Chemical Science'
