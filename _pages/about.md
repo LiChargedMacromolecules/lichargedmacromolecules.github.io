@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Researcher and group leader at the **[Changchun Institute of Applied Chemistry, Chinese Academy of Sciences](http://www.ciac.ac.cn/)**. Research focuses on theoretical and multiscale computational simulation of polyelectrolytes and charged biological macromolecules, combining thermodynamic and kinetic theory to establish universal quantitative relations for the physical-chemical properties of polyelectrolytes. Through deep integration of molecular dynamics simulation and artificial intelligence (AI), the group systematically investigates key scientific mechanisms in liquid–liquid phase separation, nanopore translocation, and other phase transition and nonequilibrium dynamical processes, with extensions toward inverse design of high-performance polymers for thermal management applications. Over 20 SCI papers have been published in leading journals including *J. Am. Chem. Soc.*, *Macromolecules*, *J. Chem. Phys.*, and *J. Phys. Chem. B* (15 as first or corresponding author). Holds 1 Chinese invention patent and 2 registered software copyrights. Currently serves as a Young Editorial Board Member of *Chem & Bio Engineering* and *Chemical Reaction Engineering and Technology*.
+Professor and group leader at the **[Changchun Institute of Applied Chemistry, Chinese Academy of Sciences](http://www.ciac.ac.cn/)**. Research focuses on theoretical and multiscale computational simulation of polyelectrolytes and charged biological macromolecules, combining thermodynamic and kinetic theory to establish universal quantitative relations for the physical-chemical properties of polyelectrolytes. Through deep integration of molecular dynamics simulation and artificial intelligence (AI), the group systematically investigates key scientific mechanisms in liquid–liquid phase separation, nanopore translocation, and other phase transition and nonequilibrium dynamical processes, with extensions toward inverse design of high-performance polymers for thermal management applications. Over 20 SCI papers have been published in leading journals including *J. Am. Chem. Soc.*, *Macromolecules*, *J. Chem. Phys.*, and *J. Phys. Chem. B* (15 as first or corresponding author). Holds 1 Chinese invention patent and 2 registered software copyrights. Currently serves as a Young Editorial Board Member of *Chem & Bio Engineering* and *Chemical Reaction Engineering and Technology*.
 
 ---
 
@@ -45,9 +45,9 @@ Investigating liquid–liquid phase separation (LLPS) induced by salt concentrat
 
 | Degree | Institution | Location | Period | Advisor |
 |--------|-------------|----------|--------|---------|
-| Researcher | **[Changchun Institute of Applied Chemistry, CAS](http://www.ciac.ac.cn/)** State Key Laboratory of Polymer Physics and Chemistry | China | 2025.2 – |  |
-| Postdoc | **[University of Massachusetts Amherst](https://www.umass.edu/)** [Department of Polymer Science and Engineering](https://www.umass.edu/polymer-science/) | USA | 2022.2 – 2025.2 | Prof. Murugappan Muthukumar |
-| Postdoc | **[Nanyang Technological University](https://www.ntu.edu.sg/)** [School of Materials Science and Engineering](https://www.ntu.edu.sg/mse) | Singapore | 2019.9 – 2025.2 | Assoc. Prof. Jing Yu |
+| Professor | **[Changchun Institute of Applied Chemistry, CAS](http://www.ciac.ac.cn/)** State Key Laboratory of Polymer Physics and Chemistry | China | 2025.2 – |  |
+| Postdoctoral Research Associate| **[University of Massachusetts Amherst](https://www.umass.edu/)** [Department of Polymer Science and Engineering](https://www.umass.edu/polymer-science/) | USA | 2022.2 – 2025.2 | Prof. Murugappan Muthukumar |
+| Research Fellow | **[Nanyang Technological University](https://www.ntu.edu.sg/)** [School of Materials Science and Engineering](https://www.ntu.edu.sg/mse) | Singapore | 2019.9 – 2025.2 | Assoc. Prof. Jing Yu |
 | Ph.D. | **[Changchun Institute of Applied Chemistry, CAS](http://www.ciac.ac.cn/)** State Key Laboratory of Polymer Physics and Chemistry | China | 2013.8 – 2019.1 | Prof. Lijia An (CAS Academician) |
 | B.S. | **[Jilin University](https://www.jlu.edu.cn/)** [College of Chemistry](https://chem.jlu.edu.cn/) | China | 2009.8 – 2013.6 |  |
 
@@ -60,9 +60,9 @@ Investigating liquid–liquid phase separation (LLPS) induced by salt concentrat
 |--------|-------------|------|
 | National Natural Science Foundation of China | Special Project: "Model-Driven Fundamental Theory Innovation and Discovery of Disruptive New Materials in Materials Science" | PI |
 | Jilin Province Natural Science Foundation | General Project | PI |
-| National Institutes of Health (USA) | National Human Genome Research Institute | Co-I |
-| National Science Foundation (USA) | Division of Materials Research | Co-I |
-| Singapore National Research Fellowship | National Research Fellowship | Co-I |
+| National Institutes of Health (USA) | National Human Genome Research Institute |  |
+| National Science Foundation (USA) | Division of Materials Research |  |
+| Singapore National Research Fellowship | National Research Fellowship |  |
 
 
 ## Group Members
@@ -70,9 +70,7 @@ Investigating liquid–liquid phase separation (LLPS) induced by salt concentrat
 ### Principal Investigator
 
 **Minglun Li**  
-Researcher, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences  
-Email: mlli@ciac.ac.cn  
-[Google Scholar](https://scholar.google.com.hk/citations?user=bXfelJkAAAAJ&hl=zh-CN&oi=sra) | [ORCID](http://orcid.org/0000-0002-1286-6915)
+
 
 ### Graduate Students
 
