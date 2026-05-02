@@ -1,7 +1,7 @@
 ---
 title: "High-Performance Electrochromic Covalent Hybrid Framework Membranes via a Facile One-Pot Synthesis"
 collection: publications
-category: manuscripts
+category: collaboration
 permalink: /publication/2022-01-01-electrochromic-framework-membranes
 #excerpt: 'We synthesize high-performance electrochromic covalent hybrid framework membranes via a facile one-pot method.'
 date: 2022-01-01

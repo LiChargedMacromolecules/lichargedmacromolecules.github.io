@@ -1,7 +1,7 @@
 ---
 title: "Salt-induced Liquid–Liquid Phase Separation: Combined Experimental and Theoretical Investigation of Water–Acetonitrile–Salt Mixtures"
 collection: publications
-category: manuscripts
+category: first_corresponding
 permalink: /publication/2021-01-04-salt-llps-water-acetonitrile
 #excerpt: 'We combine experiment and theory to investigate salt-induced liquid-liquid phase separation in water-acetonitrile-salt mixtures.'
 date: 2021-01-04

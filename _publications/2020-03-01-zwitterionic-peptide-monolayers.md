@@ -1,7 +1,7 @@
 ---
 title: "Structures and Antifouling Properties of Self-Assembled Zwitterionic Peptide Monolayers: Effects of Peptide Charge Distributions and Divalent Cations"
 collection: publications
-category: manuscripts
+category: collaboration
 permalink: /publication/2020-03-01-zwitterionic-peptide-monolayers
 #excerpt: 'We investigate the structures and antifouling properties of zwitterionic peptide monolayers as a function of charge distribution and divalent cation type.'
 date: 2020-03-01

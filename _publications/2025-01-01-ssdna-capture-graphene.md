@@ -1,7 +1,7 @@
 ---
 title: "ssDNA Capture Dynamics by Graphene Nanopores: The Role of Electroosmotic Flow and Electrophoresis"
 collection: publications
-category: manuscripts
+category: first_corresponding
 permalink: /publication/2025-01-01-ssdna-capture-graphene
 #excerpt: 'We study ssDNA capture dynamics by graphene nanopores, analyzing the roles of electroosmotic flow and electrophoresis.'
 date: 2025-01-01

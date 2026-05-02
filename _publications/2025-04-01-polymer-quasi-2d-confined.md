@@ -1,7 +1,7 @@
 ---
 title: "Study on the Dynamics of Polymer Chains in Quasi-two-dimensional Confined Systems"
 collection: publications
-category: manuscripts
+category: first_corresponding
 permalink: /publication/2025-04-01-polymer-quasi-2d-confined
 #excerpt: 'We study the dynamics of polymer chains in quasi-two-dimensional confined systems.'
 date: 2025-04-01

@@ -1,7 +1,7 @@
 ---
 title: "Effects of Ion Valency on Polyelectrolyte Brushes: A Unified Theory"
 collection: publications
-category: manuscripts
+category: first_corresponding
 permalink: /publication/2022-10-01-ion-valency-pe-brushes
 #excerpt: 'We develop a unified theoretical framework to describe the effects of ion valency on polyelectrolyte brush structure.'
 date: 2022-10-01

@@ -1,7 +1,7 @@
 ---
 title: "Functional Zwitterionic Polymers on Surface: Structures and Applications"
 collection: publications
-category: manuscripts
+category: first_corresponding
 permalink: /publication/2020-06-01-zwitterionic-polymers-surface
 #excerpt: 'A review of the structures and applications of functional zwitterionic polymers tethered to surfaces.'
 date: 2020-06-01

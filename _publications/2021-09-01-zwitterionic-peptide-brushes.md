@@ -1,7 +1,7 @@
 ---
 title: "Sequence–Conformation Relationship of Zwitterionic Peptide Brushes: Theory and Simulations"
 collection: publications
-category: manuscripts
+category: first_corresponding
 permalink: /publication/2021-09-01-zwitterionic-peptide-brushes
 #excerpt: 'We study the sequence-conformation relationship of zwitterionic peptide brushes using theory and molecular simulations.'
 date: 2021-09-01

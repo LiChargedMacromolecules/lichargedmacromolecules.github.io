@@ -1,7 +1,7 @@
 ---
 title: "Combined Theoretical and Experimental Study of Refractive Indices of Water–Acetonitrile–Salt Systems"
 collection: publications
-category: manuscripts
+category: collaboration
 permalink: /publication/2015-07-01-refractive-index-water-acetonitrile
 #excerpt: 'We present a combined theoretical and experimental study of the refractive indices of water-acetonitrile-salt ternary systems.'
 date: 2015-07-01

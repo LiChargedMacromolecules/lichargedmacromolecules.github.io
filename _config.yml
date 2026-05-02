@@ -85,9 +85,12 @@ publication_category:
   books:
     title: 'Books'
     title_cn: '书籍'
-  manuscripts:
-    title: 'Journal Articles'
-    title_cn: '期刊论文'
+  first_corresponding:
+    title: 'First / Corresponding Author'
+    title_cn: '第一作者 / 通讯作者'
+  collaboration:
+    title: 'Collaborations'
+    title_cn: '合作论文'
   conferences:
     title: 'Conference Papers'
     title_cn: '会议论文'

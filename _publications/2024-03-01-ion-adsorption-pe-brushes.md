@@ -1,7 +1,7 @@
 ---
 title: "Ion Adsorption Enhances Apparent Non-Electrostatic Attraction Between Monomers in Polyelectrolyte Brushes"
 collection: publications
-category: manuscripts
+category: first_corresponding
 permalink: /publication/2024-03-01-ion-adsorption-pe-brushes
 #excerpt: 'We show that ion adsorption onto polyelectrolyte brush monomers enhances apparent non-electrostatic attraction, affecting brush structure and properties.'
 date: 2024-03-01

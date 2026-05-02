@@ -1,7 +1,7 @@
 ---
 title: "RNA Translocation through Protein Nanopores: Interlude of Molten Globule"
 collection: publications
-category: manuscripts
+category: first_corresponding
 permalink: /publication/2025-01-21-rna-translocation-nanopore
 #excerpt: 'We investigate RNA translocation through protein nanopores, revealing a molten globule intermediate state that controls translocation dynamics.'
 date: 2025-01-21

@@ -1,7 +1,7 @@
 ---
 title: "Effect of Hydrophobicity and Charge Separation on the Antifouling Properties of Surface-Tethered Zwitterionic Peptides"
 collection: publications
-category: manuscripts
+category: collaboration
 permalink: /publication/2021-07-01-zwitterionic-peptides-antifouling
 #excerpt: 'We investigate how hydrophobicity and charge separation affect the antifouling properties of zwitterionic peptides tethered to surfaces.'
 date: 2021-07-01

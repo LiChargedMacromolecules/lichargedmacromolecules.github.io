@@ -1,7 +1,7 @@
 ---
 title: "Salt and Ion Polarizabilities in Blended Solutions of Water/Organic Solvents"
 collection: publications
-category: manuscripts
+category: first_corresponding
 permalink: /publication/2018-09-01-ion-polarizabilities-blended
 #excerpt: 'We determine ion polarizabilities in blended water/organic solvent solutions using a combined theoretical and experimental approach.'
 date: 2018-09-01

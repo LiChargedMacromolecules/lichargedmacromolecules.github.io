@@ -1,7 +1,7 @@
 ---
 title: "Electrophoretic Translocation of Star-shaped Polymers through Single Solid-state Nanopores"
 collection: publications
-category: manuscripts
+category: collaboration
 permalink: /publication/2024-06-01-star-polymer-nanopore
 #excerpt: 'We study the electrophoretic translocation of star-shaped polymers through single solid-state nanopores.'
 date: 2024-06-01

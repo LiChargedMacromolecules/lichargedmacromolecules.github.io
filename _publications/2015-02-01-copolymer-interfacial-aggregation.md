@@ -1,7 +1,7 @@
 ---
 title: "Effects of Copolymer Composition and Subphase pH/Temperature on the Interfacial Aggregation Behavior of Poly(2-(dimethylamino)ethyl methacrylate)-block-poly(lauryl methacrylate)"
 collection: publications
-category: manuscripts
+category: collaboration
 permalink: /publication/2015-02-01-copolymer-interfacial-aggregation
 #excerpt: 'We study the interfacial aggregation behavior of PDMAEMA-b-PLMA copolymers as a function of composition and subphase conditions.'
 date: 2015-02-01

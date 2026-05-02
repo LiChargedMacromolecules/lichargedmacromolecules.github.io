@@ -1,7 +1,7 @@
 ---
 title: "Accurate Determination of Ion Polarizabilities in Aqueous Solutions"
 collection: publications
-category: manuscripts
+category: first_corresponding
 permalink: /publication/2017-06-01-ion-polarizabilities-aqueous
 #excerpt: 'We present an accurate method to determine ion polarizabilities in aqueous solutions.'
 date: 2017-06-01

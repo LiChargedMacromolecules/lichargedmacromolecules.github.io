@@ -1,7 +1,7 @@
 ---
 title: "Translocation of ssDNA through Charged Graphene Nanopores: Effect of the Charge Density"
 collection: publications
-category: manuscripts
+category: first_corresponding
 permalink: /publication/2024-10-01-ssdna-translocation-graphene
 #excerpt: 'We investigate how charge density of graphene nanopores affects ssDNA translocation dynamics.'
 date: 2024-10-01
