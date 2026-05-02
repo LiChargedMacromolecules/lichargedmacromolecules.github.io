@@ -7,80 +7,63 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the **[Changchun Institute of Applied Chemistry, Chinese Academy of Sciences (CIAC-CAS)](http://www.ciac.ac.cn/)** (since March 2025) and a faculty member at the **[University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)** (since September 2025). I completed my postdoctoral research (2022–2025) at the **[University of Massachusetts Amherst](https://www.umass.edu/)** in the Department of Polymer Science and Engineering, supervised by [Prof. Murugappan Muthukumar](https://www.umass.edu/polymer/faculty/muthukumar) (Wilmer D. Barrett Distinguished Professor). I received my Ph.D. from **[Nanyang Technological University](https://www.ntu.edu.sg/)** (2019–2022) under [Assoc. Prof. Jing Yu](https://www.ntu.edu.sg/mse/about-us/our-people/faculty/yu-jing), and also completed doctoral training at **CIAC-CAS / University of Chinese Academy of Sciences** (2013–2019) under [Prof. Zhen-Gang Wang](https://www.che.caltech.edu/groups/zgw/) (Caltech) and Prof. Murugappan Muthukumar.
-
-My research focuses on the **theoretical and computational physics of charged macromolecules**, including:
-
-- **Nanopore sequencing** — RNA/DNA translocation through solid-state and protein nanopores
-- **Electroosmotic flow** — anomalous transport in nanoconfinement driven by charged polymer conformations
-- **Polyelectrolyte brushes** — effects of ion valency, solvent quality, and surface-tethered zwitterionic architectures
-- **Liquid–liquid phase separation** — salt-induced LLPS in water–organic solvent–salt mixtures
-- **Dipole interactions** in polyelectrolyte-based functional materials
-
----
-
-## Education
-
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| Postdoctoral Research | University of Massachusetts Amherst (Muthukumar Lab) | 2022–2025 |
-| Ph.D., Materials Science & Engineering | Nanyang Technological University (Yu Lab) | 2019–2022 |
-| Ph.D. (combined), Polymer Science | CIAC-CAS / UCAS (Wang & Muthukumar) | 2013–2019 |
-| B.S. | — | 2009–2013 |
-
-## Selected Funding
-
-- **NIH / National Human Genome Research Institute**: Computational Design Engine for DNA/RNA Sequencing — $1,548,095
-- **NSF / Division of Materials Research**: Topologically Frustrated Polymer Dynamics and Phase Behavior of Polyzwitterions — $525,000
-- **Singapore National Research Fellowship**: Bio-inspired Adhesives for Wet Environment — S$2,650,200
-- **Singapore MOE Academic Research Fund Tier 1**: Polymer and Gold Surfaces in Flexible Electronics — S$190,000
+Researcher and group leader at the **[Changchun Institute of Applied Chemistry, Chinese Academy of Sciences](http://www.ciac.ac.cn/)**. Research focuses on theoretical and multiscale computational simulation of polyelectrolytes and charged biological macromolecules, combining thermodynamic and kinetic theory to establish universal quantitative relations for the physical-chemical properties of polyelectrolytes. Through deep integration of molecular dynamics simulation and artificial intelligence (AI), the group systematically investigates key scientific mechanisms in liquid–liquid phase separation, nanopore translocation, and other phase transition and nonequilibrium dynamical processes, with extensions toward inverse design of high-performance polymers for thermal management applications. Over 20 SCI papers have been published in leading journals including *J. Am. Chem. Soc.*, *Macromolecules*, *J. Chem. Phys.*, and *J. Phys. Chem. B* (15 as first or corresponding author). Holds 1 Chinese invention patent and 2 registered software copyrights. Currently serves as a Young Editorial Board Member of *Chem & Bio Engineering* and *Chemical Reaction Engineering and Technology*.
 
 ---
 
 ## Research
 
-Our group develops **theoretical and computational approaches** to understand the physical behavior of charged macromolecules in complex environments — from single-molecule nanopore translocation to collective phase behavior in solution.
+Centered on the theme of **conformational transitions and transport dynamics of charged macromolecules in confined spaces**, the group integrates theoretical modeling, molecular simulation, and artificial intelligence to build a research framework connecting thermodynamic mechanism analysis with nonequilibrium transport dynamics, establishing quantitative links between conformation regulation, nonequilibrium transport, and signal interpretation of charged macromolecules in confinement.
 
-### 1. Nanopore RNA/DNA Sequencing
 
-We study the translocation dynamics of RNA and DNA through protein and solid-state nanopores. Key questions include the role of secondary/tertiary RNA structure unfolding, the interplay between electroosmotic flow and electrophoresis, and the design principles for high-accuracy sequencing.
+### Nanopore RNA/DNA Sequencing
 
-**Representative publications:**
-- M. Li, M. Muthukumar\* "RNA Translocation through Protein Nanopores: Interlude of Molten Globule" *J. Am. Chem. Soc.* **147**, 1553 (2025)
-- M. Li, M. Muthukumar\* "Electro-osmotic Flow in Nanoconfinement: Solid-state and Protein Nanopores" *J. Chem. Phys.* **160**, 084905 (2024)
+Focused on the nonequilibrium transport dynamics of RNA and DNA through protein and solid-state nanopores. Key investigations include the unfolding evolution of RNA secondary and tertiary structures, and the complex coupling of electroosmotic flow and electrophoresis in nanoconfinement — providing fundamental theoretical guidance and physical design principles for next-generation high-accuracy single-molecule sequencing technologies.
 
-### 2. Electroosmotic Flow in Nanoconfinement
 
-Charged macromolecules in flow undergo conformational transitions that dramatically alter the electroosmotic flow profile — leading to anomalous (even reversed) transport. We combine analytical theory and simulation to predict and control these effects.
 
-**Representative publication:**
-- K. Chen, M. Li\* "Hydrodynamic-Induced Conformational Transitions of Charged Macromolecules Dictate Anomalous Electroosmotic Flow" *Proc. Natl. Acad. Sci. U.S.A.* (2026, in press)
+### Polymer Thermal Management Materials
 
-### 3. Polyelectrolyte Brushes
+Combining AI for Science with large-scale molecular dynamics simulation to explore the deep structure–property relationships between macromolecular topology, chain conformation, and anisotropic thermal conductivity. The goal is to accelerate the design and screening of macromolecular microstructures via advanced machine learning algorithms (e.g., GNNs, PINNs), providing data-driven paradigms and theoretical prediction platforms for high-performance anisotropic polymer thermal management materials.
 
-We develop unified theories for polyelectrolyte brushes under conditions of varying ion valency, solvent quality, and surface architecture (including zwitterionic peptide brushes). These systems are central to antifouling coatings, biosensors, and soft actuators.
 
-**Representative publications:**
-- M. Li, B. Zhuang\*, J. Yu\* "Effects of Ion Valency on Polyelectrolyte Brushes: A Unified Theory" *Macromolecules* **55**, 10450 (2022)
-- M. Li, M. Ruths, B. Zhuang\*, J. Yu\* "Synergistic regulation of polyelectrolyte brush conformations by solvent quality and trivalent ions" *Giant* **24**, 100363 (2025)
-- M. Li, X. Xu, ..., B. Zhuang\*, J. Yu\* "Ion Adsorption Enhances Apparent Non-Electrostatic Attraction Between Monomers in Polyelectrolyte Brushes" *Macromolecules* **57**, 3026 (2024)
+### Polyelectrolyte Brushes
 
-### 4. Liquid–Liquid Phase Separation
+Developing universal and unified theoretical models to systematically describe macromolecular brush behavior under the coupled influence of ion valency, solvent quality, dipole–dipole interactions, and complex surface architectures (including zwitterionic peptide brushes). These theoretical advances enrich the foundations of soft matter physics and provide critical support for antifouling coatings, smart biosensors, and soft actuators.
 
-We investigate salt-induced liquid–liquid phase separation in multicomponent solvent mixtures, combining experiment and theory to develop predictive models for ion polarizabilities and refractive indices.
 
-**Representative publication:**
-- M. Li\|\|, B. Zhuang\|\|, Y. Lu\*, L. An, Z.-G. Wang\* "Salt-induced Liquid–Liquid Phase Separation: Combined Experimental and Theoretical Investigation of Water–Acetonitrile–Salt Mixtures" *J. Am. Chem. Soc.* **143**, 773 (2021)
+### Liquid–Liquid Phase Separation
 
-### 5. Dipole Interactions in Polyelectrolyte Materials
-
-We explore dipole–dipole interactions as a driving force in applied polyelectrolyte systems, including electrochromic membranes and antifouling zwitterionic surfaces.
-
-**Representative publications:**
-- M. Li, J. Yu\* "Dipole Interactions as a Driving Force in Applied Polyelectrolyte Materials" *ACS Appl. Polym. Mater.* **8**, 3261 (2026)
-- M. Li, B. Zhuang\*, J. Yu\* "Functional Zwitterionic Polymers on Surface: Structures and Applications" *Chem. Asian J.* **15**, 2060 (2020)
+Investigating liquid–liquid phase separation (LLPS) induced by salt concentration gradients or specific interactions in multicomponent mixtures. By combining theoretical derivation with experimental data, the group builds predictive physical models incorporating ion specificity, polarizability, and refractive index, revealing the thermodynamic logic and control principles underlying phase transitions in complex solution systems.
 
 ---
+
+
+
+
+## Education and Experience
+
+| Degree | Institution | Location | Period | Advisor |
+|--------|-------------|----------|--------|---------|
+| Researcher | **[Changchun Institute of Applied Chemistry, CAS](http://www.ciac.ac.cn/)** State Key Laboratory of Polymer Physics and Chemistry | China | 2025.2 – |  |
+| Postdoc | **[University of Massachusetts Amherst](https://www.umass.edu/)** [Department of Polymer Science and Engineering](https://www.umass.edu/polymer-science/) | USA | 2022.2 – 2025.2 | Prof. Murugappan Muthukumar |
+| Postdoc | **[Nanyang Technological University](https://www.ntu.edu.sg/)** [School of Materials Science and Engineering](https://www.ntu.edu.sg/mse) | Singapore | 2019.9 – 2025.2 | Assoc. Prof. Jing Yu |
+| Ph.D. | **[Changchun Institute of Applied Chemistry, CAS](http://www.ciac.ac.cn/)** State Key Laboratory of Polymer Physics and Chemistry | China | 2013.8 – 2019.1 | Prof. Lijia An (CAS Academician) |
+| B.S. | **[Jilin University](https://www.jlu.edu.cn/)** [College of Chemistry](https://chem.jlu.edu.cn/) | China | 2009.8 – 2013.6 |  |
+
+
+
+
+## Funding
+
+| Source | Description | Role |
+|--------|-------------|------|
+| National Natural Science Foundation of China | Special Project: "Model-Driven Fundamental Theory Innovation and Discovery of Disruptive New Materials in Materials Science" | PI |
+| Jilin Province Natural Science Foundation | General Project | PI |
+| National Institutes of Health (USA) | National Human Genome Research Institute | Co-I |
+| National Science Foundation (USA) | Division of Materials Research | Co-I |
+| Singapore National Research Fellowship | National Research Fellowship | Co-I |
+
 
 ## Group Members
 
@@ -93,8 +76,22 @@ Email: mlli@ciac.ac.cn
 
 ### Graduate Students
 
-*Positions available — we are actively recruiting motivated Ph.D. students and postdocs.*
+#### 2nd-year Master's Students
+**Zhihui Zhu**    **Ruijun Gao**
+
+#### 1st-year Master's Students
+**Yaru Ren**    **Fanya Wei**    **Siyu Han**
+
+
 
 ### Join Us
 
-We welcome applications from students and researchers interested in theoretical/computational polymer physics and biophysics. Please send your CV and a brief statement of research interests to **mlli@ciac.ac.cn**.
+If you are passionate about polymer physics and artificial intelligence, and enjoy computation, coding, and data analysis, we sincerely welcome you to join our team!
+
+Positions available:
+
+Graduate students (Master's / Ph.D.)  
+Postdoctoral researchers  
+Early-career scholars interested in related research directions  
+
+Please send your **CV** to **mlli@ciac.ac.cn** — we look forward to hearing from you!
